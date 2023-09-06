@@ -23,11 +23,9 @@
             "id": "56ac0d72c4e5dc4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
-                "mode": "source",
-                "source": false
+                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
+                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
+                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md"
+                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf"
               }
             }
           }
@@ -159,12 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56ac0d72c4e5dc4a",
+  "active": "67a95c7c543f2d90",
   "lastOpenFiles": [
+    "K3/PERTEMUAN-2",
+    "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
     "MATEMATIKA/PERTEMUAN-2/27_Rakai Seto Sembodo_1G_Test 1.pdf",
     "MATEMATIKA/PERTEMUAN-2/Logika Matematika.md",
     "MATEMATIKA/PERTEMUAN-2/P2 Logika Matematika .pptx",
-    "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
     "MATEMATIKA/PERTEMUAN-2",
     "MATEMATIKA/PERTEMUAN-1/P 1 Konsep Diskrit Dan Aplikasinya Teknologi Informasi.pptx",
     "MATEMATIKA/PERTEMUAN-1",
@@ -173,7 +172,6 @@
     "DASPRO/PERTEMUAN-1/TOPIK 1 - ALGORITMA.md",
     "K3/PERTEMUAN-1/1 - Pengantar Keselamatan dan Kesehatan Kerja.pdf",
     "B-INGGRIS/PERTEMUAN-2/Bahasa Inggris 1_Week 2.pptx",
-    "B-INGGRIS/PERTEMUAN-1/Introduction to the course - Bahasa Inggris 1.pptx",
-    "B-INGGRIS/PERTEMUAN-1"
+    "B-INGGRIS/PERTEMUAN-1/Introduction to the course - Bahasa Inggris 1.pptx"
   ]
 }
