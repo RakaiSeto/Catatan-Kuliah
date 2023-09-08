@@ -11,21 +11,21 @@
             "id": "ca21a13fe8444ee5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MATEMATIKA/PERTEMUAN-2/Logika Matematika.md",
-                "mode": "source",
-                "source": false
+                "file": "DASPRO/PERTEMUAN-2/Pertemuan 2.pdf"
               }
             }
           },
           {
-            "id": "56ac0d72c4e5dc4a",
+            "id": "56ae8e6539eb76e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf"
+                "file": "DASPRO/PERTEMUAN-2/5 PROJEK OPEN SOURCE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf",
+                "file": "DASPRO/PERTEMUAN-2/5 PROJEK OPEN SOURCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf",
+                "file": "DASPRO/PERTEMUAN-2/5 PROJEK OPEN SOURCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf"
+                "file": "DASPRO/PERTEMUAN-2/5 PROJEK OPEN SOURCE.md"
               }
             }
           }
@@ -157,12 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67a95c7c543f2d90",
+  "active": "56ae8e6539eb76e4",
   "lastOpenFiles": [
+    "DASPRO/PERTEMUAN-2/27_Rakai Seto Sembodo_1G_TugasP2.pdf",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907185421.png",
+    "DASPRO/PERTEMUAN-2/Pertemuan 2.pdf",
+    "DASPRO/PERTEMUAN-2/5 PROJEK OPEN SOURCE.md",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184244.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184443.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184434.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184254.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907183330.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907183426.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184121.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907184045.png",
+    "DASPRO/PERTEMUAN-2/Pasted image 20230907183625.png",
+    "MATEMATIKA/PERTEMUAN-2/Logika Matematika.md",
     "K3/PERTEMUAN-2",
     "MATEMATIKA/PERTEMUAN-2/TUGAS PROPOSISI.md",
     "MATEMATIKA/PERTEMUAN-2/27_Rakai Seto Sembodo_1G_Test 1.pdf",
-    "MATEMATIKA/PERTEMUAN-2/Logika Matematika.md",
     "MATEMATIKA/PERTEMUAN-2/P2 Logika Matematika .pptx",
     "MATEMATIKA/PERTEMUAN-2",
     "MATEMATIKA/PERTEMUAN-1/P 1 Konsep Diskrit Dan Aplikasinya Teknologi Informasi.pptx",
@@ -170,8 +183,6 @@
     "MATEMATIKA",
     "B-INGGRIS/PERTEMUAN-2/Modul_Bahasa Inggris 1_UNIT 1_7th Edition_2020.pdf",
     "DASPRO/PERTEMUAN-1/TOPIK 1 - ALGORITMA.md",
-    "K3/PERTEMUAN-1/1 - Pengantar Keselamatan dan Kesehatan Kerja.pdf",
-    "B-INGGRIS/PERTEMUAN-2/Bahasa Inggris 1_Week 2.pptx",
-    "B-INGGRIS/PERTEMUAN-1/Introduction to the course - Bahasa Inggris 1.pptx"
+    "K3/PERTEMUAN-1/1 - Pengantar Keselamatan dan Kesehatan Kerja.pdf"
   ]
 }
