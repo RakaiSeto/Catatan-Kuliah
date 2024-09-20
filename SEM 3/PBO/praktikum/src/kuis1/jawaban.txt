@@ -1,0 +1,11 @@
+1. Saat Anda membuat konstruktor untuk melaksanakan instruksi nomor 4, berapa maksimal parameter yang dapat kalian gunakan? Mengapa?
+	jawab : ada 5 parameter, namun hanya 3 yang digunakan saat constructor, dikarenakan volume dan power sudah mempunyai nilai default
+
+3. Lakukan pemanggilan method tambah volume. Apa yang terjadi? Mengapa demikian?
+	jawab : bila power dinyalakan maka volume akan bertambah, namun bila tidak dinyalakan, volume tetap sama dan akan muncul pesan error
+
+4. Lakukan pemanggilan method tambahVolume sampai batas maksimal yakni 100, kemudian panggil lagi method tambah Volume. Apa yang terjadi? Mengapa demikian?
+	jawab : volume tidak akan bertambah karena sudah dilakukan penjagaan bahwa volume tidak bisa lebih dari 100
+
+5. Lakukan hal yang sama untuk method kurangVolume sampai batas minimal yakni 0, kemudian panggil lagi method kurangVolume. Apa yang terjadi? Mengapa demikian?
+	jawab : volume tidak akan berkurang karena sudah dilakukan penjagaan bahwa volume tidak bisa kurang dari 0
